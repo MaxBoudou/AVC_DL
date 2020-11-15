@@ -1,0 +1,1 @@
+loss: 0.5244 - accuracy: 0.2443 - binary_crossentropy: 1.4349 - true_positives: 5334888.0000 - true_negatives: 22974934.0000 - false_positives: 4054.0000 - false_negatives: 63994568.0000
