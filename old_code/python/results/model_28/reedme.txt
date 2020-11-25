@@ -1,0 +1,2 @@
+model = unet(input_size=(dim_image, dim_image, 1), loss=focal_tversky_loss, model_name=model_path+"/avc_unet.png", learning_rate = 1e-4)
+focal_trevsky_loss = a=0.1, B=0.9, g=0.75
